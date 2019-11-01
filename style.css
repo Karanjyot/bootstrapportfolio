@@ -51,7 +51,7 @@ width:400px;
 
 .card-header {
 
-    background-color: cadetblue;
+    background-color: cadetblue !important;
 
     text-align: center;
 
