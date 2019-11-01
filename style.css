@@ -38,10 +38,6 @@ width:400px;
 */
 
 
-
-
-
-
 .card:hover{
 
     color:white;
@@ -92,7 +88,23 @@ width:400px;
     #imageid {
 
         width:200px;
+        margin-left:60px;
     }
+    
+.card {
+
+    margin:auto;
+    margin-bottom: 20px;
+}
+
+
+h1 {
+
+    text-align:center;
+
+}
+
+
 
 
 
