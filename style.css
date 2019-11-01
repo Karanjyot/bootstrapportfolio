@@ -7,3 +7,19 @@
 
     padding-left:400px;
 }
+
+
+#image {
+
+    float: left;
+}
+
+#imageid {
+
+width:400px;    
+}
+
+.navmargin {
+
+    margin-bottom:20px;
+}
