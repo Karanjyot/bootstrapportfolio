@@ -1,3 +1,9 @@
+
+
+
+@media screen and (min-width: 400px) {
+
+    
 #name {
 
     padding-left: 225px;
@@ -8,11 +14,13 @@
     padding-left:740px;
 }
 
+}
 
 #image {
 
     float: left;
 }
+
 
 #imageid {
 
@@ -78,3 +86,18 @@ width:400px;
 
 
 }
+
+@media screen and (max-width: 400px) {
+
+    #imageid {
+
+        width:200px;
+    }
+
+
+
+}
+  
+
+
+
