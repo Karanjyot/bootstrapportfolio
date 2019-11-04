@@ -1,2 +1,2 @@
 # bootstrapportfolio
-Portfolio using Bootstrap
+Portfolio using Bootstrap with mobile responsivesness
